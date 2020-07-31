@@ -1,6 +1,6 @@
 # molecules
 
-#SC Git and GitHub lesson
+#SWC Git and GitHub lesson
 
 Contents:
 
